@@ -8,7 +8,7 @@ import { VList } from 'virtuallist-antd';
 
 const data = [];
 
-for (let i = 0; i < 100000; i++) {
+for (let i = 0; i < 10000; i++) {
   data.push({
     key: i,
     date: '2018-02-11',
