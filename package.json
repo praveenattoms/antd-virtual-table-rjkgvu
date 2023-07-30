@@ -1,0 +1,22 @@
+{
+  "name": "tuhn8m--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "4.2.2",
+    "antd": "4.6.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-resizable": "1.11.0",
+    "virtuallist-antd": "^0.4.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
